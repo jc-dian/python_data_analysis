@@ -1,0 +1,4 @@
+jupyter_file里面有  
+D:\jupyter_file\team-learning-data-mining1\MachineLearningFundamentals
+开源地址
+https://github.com/datawhalechina/team-learning-data-mining/tree/master/MachineLearningFundamentals
